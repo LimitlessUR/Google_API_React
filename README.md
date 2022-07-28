@@ -2,6 +2,8 @@
 
 ⭐ Travel Advisor API - https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
 
+`Rapid Api:`
+
 
 
 https://user-images.githubusercontent.com/86543368/179360932-82683f6d-4691-4d53-adac-41608469b79c.mp4
