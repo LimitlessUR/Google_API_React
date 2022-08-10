@@ -6,7 +6,9 @@
 
 https://rapidapi.com/hub
 
-This app enables our user to search any location and get resturants, attractions, and hotels in that area. It also includes detailed information cards to give our user as much information as possible about each establishment
+## Features 
+
+This app enables our user to search any location and get resturants, attractions, and hotels in that area. It also includes detailed card components to give our users information about local establishments in their area. 
 
 https://user-images.githubusercontent.com/86543368/179360932-82683f6d-4691-4d53-adac-41608469b79c.mp4
 
