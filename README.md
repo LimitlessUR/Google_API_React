@@ -5,6 +5,7 @@
 `Rapid Api:`
 
 https://rapidapi.com/hub
+
 This app enables our user to search any location and get resturants, 
 
 https://user-images.githubusercontent.com/86543368/179360932-82683f6d-4691-4d53-adac-41608469b79c.mp4
