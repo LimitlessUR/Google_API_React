@@ -4,7 +4,7 @@ Here our users can find any restuarants, hotels, and attractions by on their loc
 
 Visit here: https://dev8867.d39nqmjb3agqf8.amplifyapp.com/
 
-Deply on AWS Amplify 
+Deployed on AWS Amplify 
 
 `Will Need API Keys:`
 
