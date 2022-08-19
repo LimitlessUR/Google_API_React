@@ -1,6 +1,8 @@
 # Travel advisor 
 
-Here our users can find any restuarants, hotels, and attractions by on their location. 
+
+## Features 
+With the travel advisory app our users can find any restuarants, hotels, and attractions by on their location using google map API 
 
 Visit here: https://dev8867.d39nqmjb3agqf8.amplifyapp.com/
 
