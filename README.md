@@ -6,7 +6,7 @@ Wandering where to eat, stay, and visit? With the Travel Advisory App, our users
 
 [Visit here](https://dev8867.d39nqmjb3agqf8.amplifyapp.com/)
 
-Visit here: https://dev8867.d39nqmjb3agqf8.amplifyapp.com/
+
 
 Deployed on AWS Amplify 
 
